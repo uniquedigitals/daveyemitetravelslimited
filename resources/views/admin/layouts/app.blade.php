@@ -18,7 +18,9 @@
                             Dashboard
                         </a>
                     </li>
-                    <li>-</li>
+                    <li>
+                      -
+                    </li>
                     <li class="fw-medium">{{ $heading ?? 'No heading'}}</li>
                 </ul>
             </div>
