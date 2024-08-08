@@ -24,9 +24,9 @@
                     <li class="fw-medium">{{ $heading ?? 'No heading'}}</li>
                 </ul>
             </div>
-
+          </div>
             @yield('content')
-        </div>
+       
             @include('admin.layouts.footer')
     </main>
     @include('admin.layouts.script')
